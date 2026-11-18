@@ -1,3 +1,3 @@
 # Laktaw
 
-A static pitch website for the Laktaw local grocery app. Open `index.html` to preview it locally. The site uses the project’s app preview, artwork, and pitch video.
+A static pitch site with interactive sample baskets and a farm-to-home delivery walkthrough. Open index.html to preview locally. The pitch video is hosted on YouTube.
